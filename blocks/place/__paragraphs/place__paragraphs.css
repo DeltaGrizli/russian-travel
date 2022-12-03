@@ -6,6 +6,7 @@
     .place__paragraphs{
         grid-column-start: 1;
         grid-row-start: 4;
-        margin: 0 16px 0;
+        margin-left: 16px;
+        margin-right: 16px;
     }
 }

@@ -8,8 +8,7 @@
     background: rgb(42, 44, 47, 0.3);
 }
 .cover__links:hover{
-    background-color: #2A2C2F;
-    opacity: 0.8;
+    background-color: rgb(42, 44, 47, 0.8);
 }
 @media screen and (max-width: 1024px) {
     .cover__links{
